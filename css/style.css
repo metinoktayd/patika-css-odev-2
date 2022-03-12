@@ -1,0 +1,48 @@
+body{
+    margin: 0; padding: 0;
+}
+.container{
+    height: auto;
+}
+.logo{
+    margin-top: 13%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.search-bg{
+    font-size: 15px;
+    text-align: center;
+    width: 100%; height: auto;
+    background-color: rgb(224, 224, 224);
+}
+.search-bg input{
+    width: 17%;
+}
+.altbilgi{
+    font-family: Arial;
+    font-size: 14px;
+    text-align: center;
+    display: flex;
+    margin-top: 0.1%;
+}
+.bir{
+    margin-right: 0.1%;
+    width: 37.5%;
+    background-color: rgb(97, 255, 247);
+    height: 100px;
+}
+.iki{
+    margin-right: 0.1%;
+    width: 25%;
+    background-color: rgb(0, 216, 205);
+    height: 100px;
+}
+ul{
+    list-style: none;
+}
+.uc{
+    width: 37.5%;
+    background-color: rgb(0, 168, 160);
+    height: 100px;
+}
